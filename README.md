@@ -10,7 +10,7 @@ https://github.com/Conflux-Chain/conflux-documentation/blob/01426d85ad4193fcbbcf
 ```shell
 npm i 
 npm run compile 
-hardhat cfx --gasprice 10
+npx hardhat cfx --gasprice 10
 ```
 
 - 不提供并发打的原因是cfx链的tps很低
