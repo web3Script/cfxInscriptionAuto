@@ -6,7 +6,7 @@
 细节可以了解`[CrossSpaceCall.sol](contracts%2FCrossSpaceCall.sol)`
 
 
-添加私钥到.env
+添加私钥到`.env`
 ```shell
 npm i 
 npm run compile 
